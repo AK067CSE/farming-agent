@@ -1,0 +1,21 @@
+# ─────────────────────────────────────────────
+# KisanMitra — AI Farming Advisory System
+# Essential Requirements Only
+# ─────────────────────────────────────────────
+
+# ── Core Framework ──
+streamlit
+google-adk
+google-genai
+
+# ── Environment & Configuration ──
+python-dotenv
+
+# ── HTTP Requests (OpenWeatherMap etc.) ──
+requests
+
+# ── Visualization ──
+plotly
+
+# ── Utilities ──
+typing-extensions
