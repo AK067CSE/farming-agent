@@ -18,4 +18,6 @@ requests
 plotly
 
 # ── Utilities ──
+
 typing-extensions
+markdown
